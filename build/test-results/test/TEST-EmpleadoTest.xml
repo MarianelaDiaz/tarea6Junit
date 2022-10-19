@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EmpleadoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-19T19:22:48" hostname="DESKTOP-RBIE6JQ" time="0.107">
+  <properties/>
+  <testcase name="calcularSueldoNetoTest()" classname="EmpleadoTest" time="0.076"/>
+  <testcase name="calcularSueldoBrutoTest()" classname="EmpleadoTest" time="0.002"/>
+  <testcase name="calcularSueldoBrutoConVentasMayorA200Test()" classname="EmpleadoTest" time="0.002"/>
+  <testcase name="tieneVacacionesConMenorA6MesesTest()" classname="EmpleadoTest" time="0.003"/>
+  <testcase name="calcularSueldoNetoconBrutoMayora2000test()" classname="EmpleadoTest" time="0.002"/>
+  <testcase name="tieneVacacionesTest()" classname="EmpleadoTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
